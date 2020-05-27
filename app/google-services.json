@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "249913485976",
+    "firebase_url": "https://gambleapp-d9e87.firebaseio.com",
+    "project_id": "gambleapp-d9e87",
+    "storage_bucket": "gambleapp-d9e87.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249913485976:android:672e02645fa4602b2bfeed",
+        "android_client_info": {
+          "package_name": "com.example.gambleapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249913485976-11nbv22r9v03cip3msmls2ffvec7msg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gambleapp",
+            "certificate_hash": "0061e769ae6e6a2ac376574f992ec8cf545063b2"
+          }
+        },
+        {
+          "client_id": "249913485976-sbous901ccle5mp4orioql1c8b1q7mor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw7okhrj6Yml9McLIIVvICBLhArZnhcxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249913485976-sbous901ccle5mp4orioql1c8b1q7mor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
